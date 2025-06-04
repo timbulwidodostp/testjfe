@@ -1,6 +1,8 @@
 # testjfe
 Test for instrument validity in the judge fixed effects design Use testjfe With STATA 19
 
+https://www.youtube.com/watch?v=D3QSulYDdB8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
